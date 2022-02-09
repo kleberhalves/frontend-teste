@@ -50,3 +50,20 @@ button{
 	color: whitesmoke;
 	text-transform: uppercase;
 }
+
+@media (max-width:768px) {
+	nav{
+		width: 70vW;
+	}
+
+	article {
+		width: 70vw;
+	}
+}
+@media (max-width:425px) {
+	nav,
+	article {
+		width: 100%;
+		min-width: 320px;
+	}
+}
