@@ -1,0 +1,9 @@
+(1) Início;
+(2) leve a cabra para a outra margem;
+(3) volte com o barco vazio, peque a alfafa e leve para a outra margem;
+(4) deixe a alfafa;
+(5) traga a cabra de volta no barco;
+(6) troque a cabra pelo lobo;
+(7) cruze o rio com o lobo;
+(8) volte para pegar a cabra;
+(9) Final.
